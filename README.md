@@ -1,6 +1,6 @@
 # GemeloIA
 
-GemeloIA is an AI-powered digital twin assistant integrated with Telegram. The project is being developed as part of a Higher Vocational Training programme in Multiplatform Application Development (DAM).
+GemeloIA is an AI-powered digital twin assistant integrated with Telegram. The project is being developed as part of a Higher Vocational Training programme (Grado Superior) in Multiplatform Application Development (DAM) in Spain.
 
 The assistant progressively builds a structured user context from profile data, conversation history, habits, food records, emotional state, goals and interests. This context is used to generate increasingly personalized responses and recommendations through the OpenAI API.
 
