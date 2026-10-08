@@ -55,7 +55,9 @@ The Java/Spring Boot source structure will be added when implementation begins.
 
 ## Configuration
 
-Copy `.env.example` to a local `.env` file or configure the equivalent environment variables in your development environment.
+The application will use environment variables for database access and external API credentials. Use `.env.example` as a reference for the required variable names.
+
+For local development, configure these variables in your IDE, Docker Compose configuration or another environment-loading tool.
 
 Never commit real API keys, Telegram bot tokens or database passwords.
 
